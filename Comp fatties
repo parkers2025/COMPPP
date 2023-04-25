@@ -97,7 +97,7 @@ InsideArrow.Image = "http://www.roblox.com/asset/?id=6034818375"
 local UITitle = Instance.new("TextLabel")
 UITitle.Name = "UITitle"
 UITitle.Parent = TabBG
-UITitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+UITitle.BackgroundColor3 = Color3.fromRGB(128,128,128)
 UITitle.BackgroundTransparency = 1.000
 UITitle.BorderSizePixel = 0
 UITitle.Position = UDim2.new(0.125207946, 0, 0.046875, 0)
@@ -114,7 +114,7 @@ local TabButtons = Instance.new("ScrollingFrame")
 TabButtons.Name = "TabButtons"
 TabButtons.Parent = TabBG
 TabButtons.Active = true
-TabButtons.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TabButtons.BackgroundColor3 = Color3.fromRGB(128,128,128)
 TabButtons.BackgroundTransparency = 1.000
 TabButtons.BorderSizePixel = 0
 TabButtons.Position = UDim2.new(0, 0, 0.136160716, 0)
